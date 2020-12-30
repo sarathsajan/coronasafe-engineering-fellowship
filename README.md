@@ -7,7 +7,7 @@ CoronaSafe Engineering Fellowship is a national programme to identify the top 30
 <div align="center">
   <br>
   <br>
-  <a href="https://fullstack.pupilfirst.org/">
+  <a href="https://fullstack.pupilfirst.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/sarathsajan/coronasafe-engineering-fellowship/main/image.svg" width=20%>
   </a>
 </div>
