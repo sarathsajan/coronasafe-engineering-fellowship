@@ -1,5 +1,5 @@
 # CoronaSafe Engineering Fellowship
-<img src="https://fullstack.pupilfirst.org/logos/coronaSafe-engineering-fellowship-logo.svg" height=50>
+[<img src="https://fullstack.pupilfirst.org/logos/coronaSafe-engineering-fellowship-logo.svg" height=50>](https://fullstack.pupilfirst.org/)
 
 <img src="https://fullstack.pupilfirst.org/logos/aicte-logo.png" height=50><img src="https://fullstack.pupilfirst.org/logos/NSTEDB-logo.svg" height=50>
 
