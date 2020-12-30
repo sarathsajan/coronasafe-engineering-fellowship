@@ -5,9 +5,7 @@
 
 CoronaSafe Engineering Fellowship is a national programme to identify the top 30 indian students in software engineering for an industry-led training to become full-stack developers and volunteer as the national engineering leadership cadre for public service.
 <div align="center">
-  <br>
-  <img src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg">
-  <br>
+  <img src="https://raw.githubusercontent.com/sarathsajan/coronasafe-engineering-fellowship/main/image.svg">
 </div>
 
 ___
