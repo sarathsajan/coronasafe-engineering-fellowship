@@ -33,9 +33,11 @@ $ ./todo report           # Statistics
 ## Development Log
 
 ### 2021/01/02
-* unit tests passed : 10/16
+* unit tests --> total: 16, passed: 10, failed: 6
 <img src="https://raw.githubusercontent.com/sarathsajan/coronasafe-engineering-fellowship/main/unit_test.png" width=75%>
 
+* most of the tests that failed were because of the [newline UTF encoding issues](https://github.com/nseadlc-2020/package-todo-cli-task/issues/12).
+* couldn't achieve argument parsing without dashes as shown above in the requirements video. ie. had to do ```todo --add "task1"``` instead of ```todo add "task1"```
 * optionally requires installation of [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) for proper testing; due to limitations of time this step was skipped
 * finished remaining features : '--done' and '--report'
 * implemented yesterday's 3 features in a different logic with better error handling and reusability
