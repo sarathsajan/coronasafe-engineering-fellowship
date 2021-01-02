@@ -36,13 +36,13 @@ $ ./todo report           # Statistics
 * optionally requires installation of [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) for proper testing; due to limitations of time this step was skipped
 * unit tests passed : 10/16
 ![](blob:https://carbon.now.sh/34241d6d-7409-45fd-901a-15d847e921db)
-* finished remaining features : 'done' and 'report'
+* finished remaining features : '--done' and '--report'
 * implemented yesterday's 3 features in a different logic with better error handling and reusability
 * removed yesterday's full code
 
 ### 2021/01/01
-* complications while implementing 'done' logic
-* completed the 'add', 'ls', 'del' features of the project
+* complications while implementing '--done' logic
+* completed the '--add', '--ls', '--del' features of the project
 * difficulty in fulfilling a feature in the project
   * [Issue filed regarding using of 'del' keyword](https://github.com/nseadlc-2020/package-todo-cli-task/issues/51)
   * [ISSUE SOLVED] [Project requires 'del' keyword to be used as variable, which unfortuntely raises syntax error](https://stackoverflow.com/questions/65517801/python-del-syntax-error-when-used-as-a-variable-name)
