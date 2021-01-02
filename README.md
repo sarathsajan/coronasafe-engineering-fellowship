@@ -33,6 +33,7 @@ $ ./todo report           # Statistics
 ## Development Log
 
 ### 2021/01/02
+* codebase can be upload only after the end of judgement.
 * unit tests --> total: 16, passed: 10, failed: 6
 <img src="https://raw.githubusercontent.com/sarathsajan/coronasafe-engineering-fellowship/main/unit_test.png" width=75%>
 
@@ -52,6 +53,6 @@ $ ./todo report           # Statistics
 * installed nodejs for unit testing
 * completed the pre-requirements (symlinks, nodejs, node_modules etc) for the project
 
-### 2020/30/12
+### 2020/12/30
 * received problem statement
 * applied for the course
