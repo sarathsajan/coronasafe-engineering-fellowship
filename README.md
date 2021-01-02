@@ -33,11 +33,10 @@ $ ./todo report           # Statistics
 ## Development Log
 
 ### 2021/01/02
-* optionally requires installation of [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) for proper testing; due to limitations of time this step was skipped
 * unit tests passed : 10/16
+<img src="https://raw.githubusercontent.com/sarathsajan/coronasafe-engineering-fellowship/main/unit_test.png" width=75%>
 
-<img src="https://raw.githubusercontent.com/sarathsajan/coronasafe-engineering-fellowship/main/unit_test.png" height=25%>
-
+* optionally requires installation of [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) for proper testing; due to limitations of time this step was skipped
 * finished remaining features : '--done' and '--report'
 * implemented yesterday's 3 features in a different logic with better error handling and reusability
 * removed yesterday's full code
